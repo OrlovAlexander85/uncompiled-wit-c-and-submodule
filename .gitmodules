@@ -1,0 +1,3 @@
+[submodule "vulnerable-node-with-c"]
+	path = vulnerable-node-with-c
+	url = git@github.com:OrlovAlexander85/vulnerable-node-with-c.git
